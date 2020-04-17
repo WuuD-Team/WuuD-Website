@@ -105,7 +105,7 @@ $ firebase deployment
 
 ## License
 
-The code is available under the [MIT](https://github.com/TeamWuuD/WuuD-Website/blob/master/LICENSE) license.
+The code is available under the [MIT](https://github.com/WuuD-Team/WuuD-Website/blob/master/LICENSE) license.
 
 <p align="center">
  <b>WuuD® - in code we trust -
