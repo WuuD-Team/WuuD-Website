@@ -1,9 +1,4 @@
 <p align="center">
-	<a href="https://wuud.net">
-		<img width="320" height="348" src="https://github.com/WuuD-Team/WuuD-Website/blob/master/favicon.ico?raw=true" alt="wuud">
-	</a>
-</p>
-<p align="center">
 	<a>
 		<img alt="NPM" src="https://img.shields.io/npm/l/react?color=black">
 		<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/WuuD-Team/WuuD-Website?color=red&label=Version">
@@ -13,9 +8,16 @@
 		<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=maintenance&style=flat-square&up_message=online&url=https%3A%2F%2Fwuud.net"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/WuuD-Team/WuuD-Website?style=social">
 	</a>
 </p>
+<p align="center">
+	<a href="https://wuud.net">
+		<img width="320" height="348" src="https://github.com/WuuD-Team/WuuD-Website/blob/master/favicon.ico?raw=true" alt="wuud">
+	</a>
+</p>
 
-<br>
-<br>
+
+<p align="center">
+ <h1 align="center">The Official WuuD Team Landing Page.</h1>
+</p>
 
 <p align="center">
  <i>Developed with :heart: and passion!</i>
@@ -23,10 +25,6 @@
 
 <p align="center">
     <img src="https://www.linkapi.solutions/uploads/2019/05/Developer-Experience.gif">
-</p>
-
-<p align="center">
- <h1 align="center">The Official WuuD Team Landing Page.</h1>
 </p>
 
 ## Build & Run
